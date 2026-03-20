@@ -1,2 +1,3 @@
-# smart-testing-framework-jj9c
-Automated issue comment bot repository
+# Smart Testing Framework Jj9C
+
+Automated issue comment bot repository.
